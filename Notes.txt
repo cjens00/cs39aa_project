@@ -1,0 +1,6 @@
+Project Goal:
+To analyze and categorize the "feeling" or "mood" of textual statements.
+
+Dataset:
+https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp
+
